@@ -1,0 +1,11 @@
+name: fitness
+description: A simple reminder application.
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^13.0.0
+
